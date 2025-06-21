@@ -8,6 +8,6 @@ Simple implementation of Tic-Tac-Toe game built using Python.
 ## Run Instruction
 In terminal, run
 ```bash
-python tic_tac_toe.py
+python TicTacToe.py
 ```
 Make sure to have python3 installed.
