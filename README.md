@@ -1,4 +1,4 @@
-# Tic-Tac_Toe
+# Tic-Tac-Toe
 Simple implementation of Tic-Tac-Toe game built using Python.
 
 ## Game Features
